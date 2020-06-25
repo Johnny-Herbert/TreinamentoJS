@@ -27,7 +27,7 @@ console.log(nomeTech.substr(6, 7));
 console.log(nomeDev.toUpperCase());
 console.log(nomeTech.toLowerCase());
 //replace
-console.log(nomeTech.replace('Marques', 'Santana'));
+console.log(nomeTech.replace('Marques', 'Nunes'));
 //Trim
 console.log("         CITi           ".trim());
 

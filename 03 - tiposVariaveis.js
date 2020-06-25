@@ -17,4 +17,8 @@ console.log(valor);
 valor = 'Texto';
 console.log(valor);
 
-//typeoff
+//typeof
+
+console.log(typeof 1);
+console.log(typeof 'Johnny');
+console.log(typeof valor);
